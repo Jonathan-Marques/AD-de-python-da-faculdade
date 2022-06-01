@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a2df5e8-2718-429c-8c3b-3fc6df504fc8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/estudo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AD1Q1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ExercicioUm.py" />
+        <option value="$PROJECT_DIR$/AD1Q1.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.637/AD1Q3.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.186/AD1Q3.py" />
+        <option value="$PROJECT_DIR$/AD1Q3.py" />
+        <option value="$PROJECT_DIR$/estudo.py" />
+        <option value="$USER_HOME$/Desktop/AP2_2018-2_Gabarito_Fundamentos de Programação/AP2Q4a.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="245" />
+    <option name="y" value="51" />
+    <option name="width" value="1399" />
+    <option name="height" value="998" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="AD1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AD1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AD1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dota-\PycharmProjects\AD1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.estudo">
+    <configuration name="AD1Q1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AD1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AD1Q1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AD1Q3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AD1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AD1Q3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AP2Q1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AD1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/AP2_2018-2_Gabarito_Fundamentos de Programação" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/AP2_2018-2_Gabarito_Fundamentos de Programação/AP2Q1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AP2Q4a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AD1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/AP2_2018-2_Gabarito_Fundamentos de Programação" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/AP2_2018-2_Gabarito_Fundamentos de Programação/AP2Q4a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="estudo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AD1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.estudo" />
+        <item itemvalue="Python.AD1Q3" />
+        <item itemvalue="Python.AD1Q1" />
+        <item itemvalue="Python.AP2Q4a" />
+        <item itemvalue="Python.AP2Q1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a2df5e8-2718-429c-8c3b-3fc6df504fc8" name="Default Changelist" comment="" />
+      <created>1552385887089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552385887089</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="245" y="51" width="1399" height="998" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981631" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32947975" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.913/AD2Q1.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.872/AD2Q2.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.083/AD2Q3.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.531/AD2Q4.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.087/AD2Q4_auxiliar_escrita.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.749/AD1Q1.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.754/AD1Q2.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.511/AD1Q3.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.275/AD1Q4.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.306/AD1Q5.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.795/AD1Q6.py" />
+    <entry file="file://$PROJECT_DIR$/ExercicioUm.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.747/AD1Q1.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.323/AD1Q1.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.637/AD1Q3.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.186/AD1Q3.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.261/AD1Q1.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.270/AD1Q2.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.844/AD1Q3.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.165/AD1Q4.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.656/AD1Q5.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.360/AD1Q6.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.420/AD1Q3.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.329/AD1Q3.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.869/AD1Q2.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.471/AD1Q1.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.046/AD1Q4.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.069/AD1Q5.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.250/AD1Q6.py" />
+    <entry file="file://$USER_HOME$/Desktop/AP2_2018-2_Gabarito_Fundamentos de Programação/AP2Q1.py" />
+    <entry file="file://$USER_HOME$/Desktop/AP2_2018-2_Gabarito_Fundamentos de Programação/AP2Q2.py" />
+    <entry file="file://$USER_HOME$/Desktop/AP2_2018-2_Gabarito_Fundamentos de Programação/AP2Q3.py" />
+    <entry file="file://$USER_HOME$/Desktop/AP2_2018-2_Gabarito_Fundamentos de Programação/AP2Q4a.py" />
+    <entry file="file://$PROJECT_DIR$/AD1Q3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estudo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD1Q1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
